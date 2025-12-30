@@ -60,7 +60,7 @@ Stroke Prediction/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/stroke-prediction.git
+git clone https://github.com/Shivanivermaaa/BRAIN_STROKE_PREDICCTION.git
 cd stroke-prediction
 
 
